@@ -38,7 +38,7 @@ ENV/
 
 # Data files (keep structure, ignore content)
 data/seen.json
-data/summaries/*.md
+# data/summaries/*.md  # 注释掉这行，允许上传日报
 
 docs/_posts/*.md
 
