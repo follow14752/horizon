@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌅 Horizon
+#🌅 Horizon
 
 **AI curates the tech news. You just read.**
 
