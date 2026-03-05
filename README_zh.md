@@ -1,4 +1,8 @@
-<div align="center">
+# Horizon - 个人科技新闻聚合系统
+
+> 注意：此项目仅用于个人学习和技术演示。
+> 
+> 本项目基于 [Thysrael/Horizon](https://github.com/Thysrael/Horizon) 进行配置。<div align="center">
 
 # 🌅 Horizon
 
