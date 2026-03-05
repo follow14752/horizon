@@ -6,7 +6,8 @@
     "base_url": "https://spark-api-open.xf-yun.com/v2",
     "api_key_env": "SPARK_API_PASSWORD",
     "temperature": 0.3,
-    "max_tokens": 8192
+    "max_tokens": 8192,
+    "languages": ["zh"]
   },
   "sources": {
     "github": [
