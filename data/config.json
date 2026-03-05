@@ -35,6 +35,24 @@
         "category": "ai-tools"
       },
       {
+        "name": "央视新闻",
+        "url": "https://rsshub.app/cctv/news",
+        "enabled": true,
+        "category": "news"
+      },
+      {
+        "name": "人民日报",
+        "url": "https://rsshub.app/people/news",
+        "enabled": true,
+        "category": "news"
+      },
+      {
+        "name": "澎湃新闻",
+        "url": "https://rsshub.app/thepaper/news",
+        "enabled": true,
+        "category": "news"
+      },
+      {
         "name": "LWN.net (subscriber full-text)",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": false,
